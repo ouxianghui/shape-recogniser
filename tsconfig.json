@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "isolatedModules": false,
+        "declaration": false,
+        "strict": true,
+        "baseUrl": "./",
+        "outDir": "build",
+        "experimentalDecorators": true,
+        "target": "es6",
+        "emitDecoratorMetadata": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+        "importHelpers": true,
+        "strictPropertyInitialization": false,
+        "noImplicitAny": false,
+        "allowUnreachableCode": true,
+        "allowJs": true,
+        "types": [
+            "node"
+        ],
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "sourceMap": true
+    },
+    "include": [
+        "./src/**/*.ts",
+        "./src/**/*.js"
+    ],
+    "exclude": [
+    ]
+}

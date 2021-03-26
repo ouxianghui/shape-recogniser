@@ -1,0 +1,13 @@
+{
+    "name": "@vxmind/shape-recogniser",
+    "main": "build/index.js",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "tsc --watch",
+        "build": "tsc",
+        "postinstall": "npm run build"
+    },
+    "dependencies": {
+    }
+}
