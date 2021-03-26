@@ -1,3 +1,6 @@
+//  Created by Jackie Ou on 02/09/2019.
+//  Copyright © 2019 RingCentral. All rights reserved.
+
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 class Vector {
