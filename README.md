@@ -14,4 +14,4 @@ export const  GeometricShape = {
     STAR : 9
 };
 
-目前支持直线、三角形、矩形、圆、椭圆、菱形、折线（bspline, B样条插值）、五角星。
+目前支持直线、三角形、矩形、圆、椭圆、菱形、折线（bspline, B样条插值）、五角星，以及擦除手势。
